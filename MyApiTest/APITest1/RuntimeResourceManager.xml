@@ -1,0 +1,4 @@
+<RuntimeResourceManager>
+<RuntimeResource><Key>{Add4_Input_1!MainDetails.TablePath}</Key><Path>Local</Path><Value>Add4_Input_1\Add4_Input_1.xls</Value><AddinId>DataAwarenessDependencyResolver</AddinId></RuntimeResource>
+<RuntimeResource><Key>{Add4_Checkpoints_1!MainDetails.TablePath}</Key><Path>Local</Path><Value>Add4_Checkpoints_1\Add4_Checkpoints_1.xls</Value><AddinId>DataAwarenessDependencyResolver</AddinId></RuntimeResource>
+</RuntimeResourceManager>

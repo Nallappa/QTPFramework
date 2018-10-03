@@ -1,0 +1,6 @@
+﻿<Properties>
+  <WatchEntry0 value="nodes.length" />
+  <WatchEntry1 value="sa" />
+  <WatchEntry2 value="sa = (a or i or e or o or u)" />
+  <WatchEntry3 value="asc(sa)" />
+</Properties>

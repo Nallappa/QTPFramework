@@ -1,0 +1,29 @@
+N<General productName="HP Unified Functional Testing" productVer="12.02" os="Windows 7" host="NALLI-PC"><DocLocation><![CDATA[C:\Automation_TCRM\kptravels\TEST\Test]]></DocLocation></General>
+<Doc rID="T1"   productName= "HP Unified Functional Testing"  >
+<DName><![CDATA[Test]]></DName>
+<Res><![CDATA[Res444]]></Res>
+<RunType fmStep="True" /><DT rID="T2">
+<NodeArgs eType="Table" icon="2" nRep="4" filter="False" >
+<Disp><![CDATA[Run-Time Data Table]]></Disp>
+<BtmPane vType="Table" >
+<Path><![CDATA[Default.xls]]></Path>
+</BtmPane>
+</NodeArgs>
+</DT>
+<Action rID="T3">
+<AName><![CDATA[kpn_travels]]></AName>
+<Summary sTime="10/14/2016 - 19:13:58" eTime="10/14/2016 - 19:22:23" passed="0" failed="0" warnings="0" ><Param ><ParamName><![CDATA[xyz]]></ParamName><ParamVal><![CDATA[]]></ParamVal>
+</Param>
+</Summary>
+<NodeArgs eType="StartAction" icon="3" nRep="6" >
+<Disp><![CDATA[kpn_travels Summary]]></Disp>
+</NodeArgs>
+</Action>
+<Summary sTime="10/14/2016 - 19:13:44" eTime="10/14/2016 - 19:22:25" passed="0" failed="0" warnings="0" ><Param ><ParamName><![CDATA[xyz]]></ParamName><ParamVal><![CDATA[]]></ParamVal>
+</Param>
+</Summary>
+<NodeArgs eType="StartTest" icon="1" nRep="3" >
+<Disp><![CDATA[Test Test Summary]]></Disp>
+</NodeArgs>
+</Doc>
+</Report>

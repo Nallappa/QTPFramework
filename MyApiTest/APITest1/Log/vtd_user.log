@@ -1,0 +1,3 @@
+2017-02-06 23:12:04,118 [29] INFO  - Step 'Subtract5' : Input Parameter 'A', Value: '10'
+2017-02-06 23:12:04,119 [29] INFO  - Step 'Subtract5' : Input Parameter 'B', Value: '5'
+2017-02-06 23:12:04,120 [29] INFO  - Step 'Subtract5' : Output Parameter 'Result', Value: '5'

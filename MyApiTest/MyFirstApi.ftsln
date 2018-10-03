@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.1.3.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstApi", "MyFirstApi\MyFirstApi.csproj", "{F112D697-DD2E-408A-99B7-C0911078DDFF}"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\Automation_TCRM\MyApiTest\MyFirstApi\MyFirstApi.csproj
+		Keyword = ST
+		OpenAsReadOnly = False
+		BaselineId = 
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F112D697-DD2E-408A-99B7-C0911078DDFF}.Debug|x86.Build.0 = Debug|x86
+		{F112D697-DD2E-408A-99B7-C0911078DDFF}.Debug|x86.ActiveCfg = Debug|x86
+		{F112D697-DD2E-408A-99B7-C0911078DDFF}.Release|x86.Build.0 = Release|x86
+		{F112D697-DD2E-408A-99B7-C0911078DDFF}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+EndGlobal

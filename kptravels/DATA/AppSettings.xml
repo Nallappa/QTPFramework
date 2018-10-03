@@ -1,0 +1,46 @@
+<Environment>
+	
+	
+        <Variable>
+		<Name>GenerateHTMLResult</Name>
+		<Value></Value>
+	</Variable>
+	<Variable>
+		<Name>HTMLResultsPath</Name>
+		<Value>C:\Automation_TCRM\kptravels\REPORTS\</Value>
+	</Variable>
+	<Variable>
+		<Name>InputSheetPath</Name>
+		<Value>C:\Automation_TCRM\kptravels\TEST\</Value>
+	</Variable>
+	<Variable>
+		<Name>PrintDebugMessage</Name>
+		<Value>YES</Value>
+	</Variable>
+	<Variable>
+		<Name>NotifyIconPath</Name>
+		<Value>C:\Automation_TCRM\kptravels\LIB\DLLs\NotificationIcon.ico</Value>
+	</Variable>
+	<Variable>
+		<Name>Dll_Location</Name>
+		<Value>C:\Automation_TCRM\kptravels\LIB\DLLs\QSQTP_Lib.dll</Value>
+	</Variable>
+  	<Variable>
+    		<Name>RTA_Application_Path</Name>
+    		<Value>C:\Automation_TCRM\kptravels\LIB\DLLs\QSQTP_Lib.dll</Value>
+  	</Variable>
+	<variable>
+
+                <Name>DataSheetExcelPath</Name>
+    		<Value>C:\Automation_TCRM\kptravels\TEST\kptravels_Datasheet.xls</Value>
+        </variable>
+<variable>
+	        <Name>AppObjtextfile</Name>
+    		<Value>C:\Automation_TCRM\kptravels\REPOSITORY\kptravels.txt</Value>
+        </variable> 
+	<variable>
+                <Name>ObjRepositoryPath</Name>
+    		<Value>C:\Automation_TCRM\kptravels\REPOSITORY\kptravels.tsr</Value>
+        </variable>
+                                                                                                           
+</Environment>
